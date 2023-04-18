@@ -106,3 +106,5 @@ dist
 # data
 data/
 assessment/api-video.json
+
+NOTES.md
