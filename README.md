@@ -1,3 +1,3 @@
 # xflix-be
-Simple youtube like backend
+Simple netflix like backend
 
